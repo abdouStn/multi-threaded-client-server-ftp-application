@@ -6,14 +6,25 @@ A personal project that falls within the course named "HMIN101 Reseaux et commun
   * #### Client-server with simultaneous management of multiple clients
   * #### Sockets
 
+### Run
+      open a console for each repository (server and client) and move on it.
+      
+      Enter 'make' to compile
+      
+      ./server PORT
+      
+      ./client PORT
+
 ### AUTHOR
 
-Abdoulaye DIALLO (abdouldiallo30@yahoo.fr)
+Sofien BENHARCHACHE
+
+Abdoulaye DIALLO
 
 
 ### Supervisor (s) 
-  Stéphane Bessy (LIRMM - Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier)
+  Hinde Lilia Bouziane (LIRMM - Laboratoire d’Informatique, de Robotique et de Microélectronique de Montpellier)
 
 ### DATE
-decembre 2014
+decembre 2015
 
